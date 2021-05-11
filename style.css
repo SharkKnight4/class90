@@ -1,0 +1,33 @@
+#submit {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: red;
+    color: whitesmoke;
+}
+#sorting {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+    background-color: lightgreen;
+    color: white;
+}
+input{
+    margin: 10px;
+    background-color: yellow;
+    color: darkred;
+    font-weight: bold;
+}
+body{
+    background-color: turquoise;
+}
+#list_of_students{
+    background-color: blueviolet;
+    border: 2px dotted silver;
+    width: 50%;
+}
+#list-of-students{
+    color: greenyellow;
+    background-color: navy;
+    border: 2px dotted gold;
+    width: 50%;
+}
